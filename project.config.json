@@ -8,8 +8,8 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"appid": "touristappid",
-	"projectname": "hellowepy2",
+	"appid": "wxf1cc07f5b6b05ce5",
+	"projectname": "miaojizhang",
 	"miniprogramRoot": "./dist",
 	"condition": {}
 }
